@@ -1,0 +1,47 @@
+[
+    {
+        "id": "faq-university-overview",
+        "question": "University overview",
+        "answer": "Our university is a leading institution offering a wide range of undergraduate and postgraduate programs. We are committed to providing quality education and fostering research."
+    },
+    {
+        "id": "faq-campus-facilities",
+        "question": "Campus facilities",
+        "answer": "The campus features state-of-the-art facilities including libraries, laboratories, sports complexes, and student lounges."
+    },
+    {
+        "id": "faq-admission-requirements",
+        "question": "Admission requirements",
+        "answer": "To apply, you need to have completed your secondary education with a minimum GPA of 3.0. Additional requirements may vary by program."
+    },
+    {
+        "id": "faq-course-offerings",
+        "question": "Course offerings",
+        "answer": "We offer a wide range of undergraduate and postgraduate courses across various disciplines including Science, Arts, Engineering, and Business."
+    },
+    {
+        "id": "faq-scholarships-available",
+        "question": "Scholarships available",
+        "answer": "Yes, we offer several scholarships based on merit and need. Please check our website for more details on eligibility and application procedures."
+    },
+  {
+    "id": "faq-admission-process",
+    "question": "Admission process",
+    "answer": "To apply, fill out the online application form, upload required documents, and pay the application fee. Shortlisted candidates will be contacted for further steps."
+  },
+  {
+    "id": "faq-fee-structure",
+    "question": "Fee structure",
+    "answer": "The fee structure varies by course. Please visit the university website or contact the admissions office for detailed information."
+  },
+  {
+    "id": "faq-hostel-facilities",
+    "question": "Hostel facilities",
+    "answer": "Yes, the university provides separate hostels for boys and girls with modern amenities, Wi-Fi, and 24/7 security."
+  },
+  {
+    "id": "faq-contact-info",
+    "question": "Contact info",
+    "answer": "You can contact us at info@university.edu or call +1-234-567-890."
+  }
+]
